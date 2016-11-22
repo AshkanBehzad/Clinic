@@ -8,10 +8,13 @@ namespace Clinic.Controllers
 {
     public class PaitientController : Controller
     {
-        // GET: Paitient
         public ActionResult CreateNewPaitient()
         {
             return View("CreateNewPaitient");
+        }
+        public ActionResult ListOfPaitient()
+        {
+            return View("ListOfPaitients");
         }
     }
 }
