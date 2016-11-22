@@ -16,6 +16,10 @@
     @RenderSection("scripts", required: false)
 </head>
 <body>
+    @*@{
+            var id = Convert.ToInt32(Session["uid"].ToString());
+            var u = new Clinic.Models.ClinicEntities1().Users.FirstOrDefault(us => us.Id == id); ;
+        }*@
     <div id="wrapper">
         <!-- Navigation -->
         <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
