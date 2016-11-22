@@ -1,0 +1,28 @@
+﻿
+@font-face {
+    font-family: Vazir;
+    src: url('../../fonts/Vazir.ttf') format('truetype');
+}
+body {
+    font-family: Vazir;
+    background: url('../../images/login-backgound.png') no-repeat;
+    background-size: cover;
+}
+.panel-default {
+    border-radius: 0;
+    border: none;
+    margin-top: 200px ;
+}
+.panel-heading {
+    background: #273238 !important;
+    color: #ffffff !important;
+    border-radius: 0;
+}
+.btn-signin {
+    background: #567f92;
+    color: #ffd41d;
+}
+.btn-signin:hover {
+    background: #3c5a69;
+    color: #ffd41d;
+}

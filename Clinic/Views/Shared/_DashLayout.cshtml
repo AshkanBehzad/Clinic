@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <title>@ViewBag.Title - سامانه مدیریت کلینیک</title>
+    <link href="../Content/style_sheet/lib-plugin/bootstrap.min.css" rel="stylesheet" />
+    <link href="../Content/style_sheet/app/app-sb.css" rel="stylesheet" />
+    <link href="../Content/style_sheet/fonts/font-awesome/font-awesome.min.css" rel="stylesheet" />
+    <link href="../Content/style_sheet/app/app.css" rel="stylesheet" />
+    @RenderSection("styles", required: false)
+    <script src="../Content/script/lib-plugin/jquery-1.11.0.js"></script>
+    <script src="../Content/script/lib-plugin/bootstrap.min.js"></script>
+    <script src="../Content/script/lib-plugin/metisMenu.min.js"></script>
+    <script src="../Content/script/app/app-sb.js"></script>
+    @RenderSection("scripts", required: false)
+</head>
+<body>
+    <div id="wrapper">
+        <!-- Navigation -->
+        <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">سامانه‌‌ی مدیریت کلینیک</a>
+            </div>
+            <!-- /.navbar-header -->
+            <ul class="nav navbar-top-links navbar-left">
+                <!-- /.dropdown -->
+                <li class="dropdown pull-left">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                        <i class="fa fa-user fa-fw"></i><i class="fa fa-caret-down"></i>
+                    </a>
+                    <ul class="dropdown-menu dropdown-user">
+                        <li>
+                            <a href="#"><i class="fa fa-user fa-fw"></i>نمایه</a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-gear fa-fw"></i>تنظیمات</a>
+                        </li>
+                        <li class="divider"></li>
+                        <li>
+                            <a href="@Url.Action("LogOut", "Account")"><i class="fa fa-sign-out fa-fw"></i>خروج</a>
+                        </li>
+                    </ul>
+                    <!-- /.dropdown-user -->
+                </li>
+                <!-- /.dropdown -->
+            </ul>
+            <!-- /.navbar-top-links -->
+            <div class="navbar-default sidebar" role="navigation">
+                @Html.Partial("~/Views/Shared/AdminMetisMenu.cshtml")
+                <!-- /.sidebar-collapse -->
+            </div>
+            <!-- /.navbar-static-side -->
+        </nav>
+        <!-- Page Content -->
+        <div id="page-wrapper">
+            @RenderBody()
+        </div>
+        <!-- /#page-wrapper -->
+    </div>
+</body>
+</html>

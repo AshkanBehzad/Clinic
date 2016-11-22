@@ -1,0 +1,112 @@
+﻿@{
+    Layout = "~/Views/Shared/_DashLayout.cshtml";
+}
+
+
+@model Clinic.Models.User
+
+@{ 
+
+        var id = Convert.ToInt32(Session["uid"]);
+}
+
+<div class="row">
+    <div class="container-fluid">
+        <h1 class="page-header">داشبورد</h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-4">
+        <div class="glob-bar">
+            <div class="glob-bar-icon pull-right">
+                <i class="fa fa-user-md fa-5x"></i>
+            </div>
+            <div class="glob-bar-body pull-left">
+                <p style="padding-bottom: 10px; border-bottom: thin solid #e5e5e5">جناب آقای <b>@ViewBag.Name </b> <small>به سامانه خوش آمدید.</small> </p>
+                1
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-4">
+        <div class="glob-bar">
+            <div class="glob-bar-icon pull-right">
+                <i class="fa fa-user-md fa-5x"></i>
+            </div>
+            <div class="glob-bar-body pull-left">
+                <p style="padding-bottom: 10px; border-bottom: thin solid #e5e5e5">جناب آقای <b>@Session["uid"].ToString()</b> <small>به سامانه خوش آمدید.</small> </p>
+                2
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-4">
+        <div class="glob-bar">
+            <div class="glob-bar-icon pull-right">
+                <i class="fa fa-user-md fa-5x"></i>
+            </div>
+            <div class="glob-bar-body pull-left">
+                <p style="padding-bottom: 10px; border-bottom: thin solid #e5e5e5">جناب آقای <b>اشکان طراوتی</b> <small>به سامانه خوش آمدید.</small> </p>
+                3
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-lg-6">
+    <div class="glob-panel">
+        <div class="glob-panel-header">
+            <div class="glob-panel-header-icon"><i class="fa fa-envelope fa-2x"></i></div>
+            <div class="glob-panel-header-body">
+                <h3>پیام‌ها</h3>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="glob-panel-body">
+            <table class="glob-pannel-table">
+                <thead>
+                    <tr>
+                        <td>فرستنده</td>
+                        <td>موضوع</td>
+                        <td></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>بهزاد</td> 
+                        <td>ارجاع پرونده بیمار </td>
+                        <td><i class="fa fa-search text-info"></i><i class="fa fa-remove text-danger"></i></td>
+                    </tr>
+                    <tr>
+                        <td>بهزاد</td>
+                        <td>ارجاع پرونده بیمار </td>
+                        <td><i class="fa fa-search text-info"></i><i class="fa fa-remove text-danger"></i></td>
+                    </tr>
+                    <tr>
+                        <td>بهزاد</td>
+                        <td>ارجاع پرونده بیمار </td>
+                        <td><i class="fa fa-search text-info"></i><i class="fa fa-remove text-danger"></i></td>
+
+                    </tr>
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+<div class="row">
+    <div class="col-lg-12">
+        <div class="glob-panel">
+            <div class="glob-panel-header">
+                <div class="glob-panel-header-icon" style="width: 5% !important"><i class="fa fa-medkit fa-2x"></i></div>
+                <div class="glob-panel-header-body" style="width: calc( 95% - 1px) !important">
+                    <h3>‌ویزیتهای امروز</h3>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="glob-panel-body">
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,201 @@
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\ApplicationInsights.config
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\roslyn\csc.exe
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\roslyn\System.Collections.Immutable.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\roslyn\vbc.exe
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\roslyn\VBCSCompiler.exe
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\roslyn\VBCSCompiler.exe.config
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Clinic.dll.config
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Clinic.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Clinic.pdb
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.Web.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.WindowsServer.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Microsoft.ApplicationInsights.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Microsoft.Web.Infrastructure.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\System.Web.Helpers.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\System.Web.Mvc.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\System.Web.Razor.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\System.Web.Webpages.Deployment.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\System.Web.Webpages.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\System.Web.Webpages.Razor.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.Web.xml
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.WindowsServer.xml
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Microsoft.ApplicationInsights.xml
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\System.Web.Razor.xml
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\System.Web.Webpages.xml
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\System.Web.Webpages.Deployment.xml
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\System.Web.Webpages.Razor.xml
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\System.Web.Helpers.xml
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\System.Web.Mvc.xml
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\obj\Debug\Clinic.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\obj\Debug\Clinic.pdb
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\System.Web.Optimization.dll
+c:\users\behzad chizari\documents\visual studio 2015\Projects\Clinic\Clinic\bin\System.Web.Optimization.xml
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\ApplicationInsights.config
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\roslyn\csc.exe
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\roslyn\vbc.exe
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\roslyn\VBCSCompiler.exe
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Clinic.dll.config
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Clinic.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Clinic.pdb
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.Web.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Microsoft.ApplicationInsights.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\System.Web.Helpers.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\System.Web.Mvc.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\System.Web.Optimization.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\System.Web.Razor.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\System.Web.Webpages.Deployment.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\System.Web.Webpages.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\System.Web.Webpages.Razor.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.Web.xml
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Microsoft.ApplicationInsights.xml
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\System.Web.Optimization.xml
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\System.Web.Razor.xml
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\System.Web.Webpages.xml
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\System.Web.Webpages.Deployment.xml
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\System.Web.Webpages.Razor.xml
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\System.Web.Helpers.xml
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\System.Web.Mvc.xml
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\obj\Debug\Clinic.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\EntityFramework.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\EntityFramework.SqlServer.dll
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\EntityFramework.xml
+C:\Users\behzad\Documents\Visual Studio 2015\Projects\Clinic\Clinic\bin\EntityFramework.SqlServer.xml
+E:\ClinicBeta\Clinic\Clinic\bin\ApplicationInsights.config
+E:\ClinicBeta\Clinic\Clinic\bin\roslyn\csc.exe
+E:\ClinicBeta\Clinic\Clinic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ClinicBeta\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ClinicBeta\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ClinicBeta\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ClinicBeta\Clinic\Clinic\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ClinicBeta\Clinic\Clinic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ClinicBeta\Clinic\Clinic\bin\roslyn\System.Collections.Immutable.dll
+E:\ClinicBeta\Clinic\Clinic\bin\roslyn\System.Reflection.Metadata.dll
+E:\ClinicBeta\Clinic\Clinic\bin\roslyn\vbc.exe
+E:\ClinicBeta\Clinic\Clinic\bin\roslyn\VBCSCompiler.exe
+E:\ClinicBeta\Clinic\Clinic\bin\roslyn\VBCSCompiler.exe.config
+E:\ClinicBeta\Clinic\Clinic\bin\Clinic.dll.config
+E:\ClinicBeta\Clinic\Clinic\bin\Clinic.dll
+E:\ClinicBeta\Clinic\Clinic\bin\Clinic.pdb
+E:\ClinicBeta\Clinic\Clinic\bin\EntityFramework.dll
+E:\ClinicBeta\Clinic\Clinic\bin\EntityFramework.SqlServer.dll
+E:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.DependencyCollector.dll
+E:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.Web.dll
+E:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.WindowsServer.dll
+E:\ClinicBeta\Clinic\Clinic\bin\Microsoft.ApplicationInsights.dll
+E:\ClinicBeta\Clinic\Clinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ClinicBeta\Clinic\Clinic\bin\Microsoft.Web.Infrastructure.dll
+E:\ClinicBeta\Clinic\Clinic\bin\System.Web.Helpers.dll
+E:\ClinicBeta\Clinic\Clinic\bin\System.Web.Mvc.dll
+E:\ClinicBeta\Clinic\Clinic\bin\System.Web.Razor.dll
+E:\ClinicBeta\Clinic\Clinic\bin\System.Web.Webpages.Deployment.dll
+E:\ClinicBeta\Clinic\Clinic\bin\System.Web.Webpages.dll
+E:\ClinicBeta\Clinic\Clinic\bin\System.Web.Webpages.Razor.dll
+E:\ClinicBeta\Clinic\Clinic\bin\EntityFramework.xml
+E:\ClinicBeta\Clinic\Clinic\bin\EntityFramework.SqlServer.xml
+E:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.DependencyCollector.xml
+E:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.Web.xml
+E:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.WindowsServer.xml
+E:\ClinicBeta\Clinic\Clinic\bin\Microsoft.ApplicationInsights.xml
+E:\ClinicBeta\Clinic\Clinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ClinicBeta\Clinic\Clinic\bin\System.Web.Optimization.xml
+E:\ClinicBeta\Clinic\Clinic\bin\System.Web.Razor.xml
+E:\ClinicBeta\Clinic\Clinic\bin\System.Web.Webpages.xml
+E:\ClinicBeta\Clinic\Clinic\bin\System.Web.Webpages.Deployment.xml
+E:\ClinicBeta\Clinic\Clinic\bin\System.Web.Webpages.Razor.xml
+E:\ClinicBeta\Clinic\Clinic\bin\System.Web.Helpers.xml
+E:\ClinicBeta\Clinic\Clinic\bin\System.Web.Mvc.xml
+E:\ClinicBeta\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache
+E:\ClinicBeta\Clinic\Clinic\obj\Debug\Clinic.dll
+E:\ClinicBeta\Clinic\Clinic\obj\Debug\Clinic.pdb
+G:\ClinicBeta\Clinic\Clinic\bin\ApplicationInsights.config
+G:\ClinicBeta\Clinic\Clinic\bin\roslyn\csc.exe
+G:\ClinicBeta\Clinic\Clinic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ClinicBeta\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ClinicBeta\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ClinicBeta\Clinic\Clinic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ClinicBeta\Clinic\Clinic\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ClinicBeta\Clinic\Clinic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ClinicBeta\Clinic\Clinic\bin\roslyn\System.Collections.Immutable.dll
+G:\ClinicBeta\Clinic\Clinic\bin\roslyn\System.Reflection.Metadata.dll
+G:\ClinicBeta\Clinic\Clinic\bin\roslyn\vbc.exe
+G:\ClinicBeta\Clinic\Clinic\bin\roslyn\VBCSCompiler.exe
+G:\ClinicBeta\Clinic\Clinic\bin\roslyn\VBCSCompiler.exe.config
+G:\ClinicBeta\Clinic\Clinic\bin\Clinic.dll.config
+G:\ClinicBeta\Clinic\Clinic\bin\Clinic.dll
+G:\ClinicBeta\Clinic\Clinic\bin\Clinic.pdb
+G:\ClinicBeta\Clinic\Clinic\bin\EntityFramework.dll
+G:\ClinicBeta\Clinic\Clinic\bin\EntityFramework.SqlServer.dll
+G:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.Agent.Intercept.dll
+G:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.DependencyCollector.dll
+G:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.Web.dll
+G:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.WindowsServer.dll
+G:\ClinicBeta\Clinic\Clinic\bin\Microsoft.ApplicationInsights.dll
+G:\ClinicBeta\Clinic\Clinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ClinicBeta\Clinic\Clinic\bin\Microsoft.Web.Infrastructure.dll
+G:\ClinicBeta\Clinic\Clinic\bin\System.Web.Helpers.dll
+G:\ClinicBeta\Clinic\Clinic\bin\System.Web.Mvc.dll
+G:\ClinicBeta\Clinic\Clinic\bin\System.Web.Razor.dll
+G:\ClinicBeta\Clinic\Clinic\bin\System.Web.Webpages.Deployment.dll
+G:\ClinicBeta\Clinic\Clinic\bin\System.Web.Webpages.dll
+G:\ClinicBeta\Clinic\Clinic\bin\System.Web.Webpages.Razor.dll
+G:\ClinicBeta\Clinic\Clinic\bin\EntityFramework.xml
+G:\ClinicBeta\Clinic\Clinic\bin\EntityFramework.SqlServer.xml
+G:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.DependencyCollector.xml
+G:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.Web.xml
+G:\ClinicBeta\Clinic\Clinic\bin\Microsoft.AI.WindowsServer.xml
+G:\ClinicBeta\Clinic\Clinic\bin\Microsoft.ApplicationInsights.xml
+G:\ClinicBeta\Clinic\Clinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ClinicBeta\Clinic\Clinic\bin\System.Web.Razor.xml
+G:\ClinicBeta\Clinic\Clinic\bin\System.Web.Webpages.xml
+G:\ClinicBeta\Clinic\Clinic\bin\System.Web.Webpages.Deployment.xml
+G:\ClinicBeta\Clinic\Clinic\bin\System.Web.Webpages.Razor.xml
+G:\ClinicBeta\Clinic\Clinic\bin\System.Web.Helpers.xml
+G:\ClinicBeta\Clinic\Clinic\bin\System.Web.Mvc.xml
+G:\ClinicBeta\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache
+G:\ClinicBeta\Clinic\Clinic\obj\Debug\Clinic.dll
+G:\ClinicBeta\Clinic\Clinic\obj\Debug\Clinic.pdb
