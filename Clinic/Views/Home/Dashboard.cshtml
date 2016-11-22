@@ -5,9 +5,9 @@
 
 @model Clinic.Models.User
 
-@{ 
-
-        var id = Convert.ToInt32(Session["uid"]);
+@{
+    var id = Convert.ToInt32(Session["uid"].ToString());
+    var u = new Clinic.Models.ClinicEntities().User.FirstOrDefault(us => us.Id == id); ;
 }
 
 <div class="row">
@@ -22,7 +22,7 @@
                 <i class="fa fa-user-md fa-5x"></i>
             </div>
             <div class="glob-bar-body pull-left">
-                <p style="padding-bottom: 10px; border-bottom: thin solid #e5e5e5">جناب آقای <b>@ViewBag.Name </b> <small>به سامانه خوش آمدید.</small> </p>
+                <p style="padding-bottom: 10px; border-bottom: thin solid #e5e5e5">جناب آقای <b>@u.Name </b> <small>به سامانه خوش آمدید.</small> </p>
                 1
             </div>
         </div>

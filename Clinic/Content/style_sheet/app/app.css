@@ -38,11 +38,11 @@
             background: #303f46 !important;
         }
 
-.sidebar ul li{
-
-    border-bottom-color:#e9e7e7;
-    border-bottom-width:2px;
+.sidebar ul li {
+    border-bottom-color: #e9e7e7;
+    border-bottom-width: 2px;
 }
+
 .sidebar i {
     color: #fad419;
 }
@@ -101,9 +101,10 @@
         padding: 10px;
         float: right;
     }
-    .glob-panel .glob-panel-header-body h3 {
-        margin: 0;
-    }
+
+        .glob-panel .glob-panel-header-body h3 {
+            margin: 0;
+        }
 
     .glob-panel .glob-panel-body {
         width: 100%;
@@ -111,32 +112,88 @@
         height: auto;
         padding: 10px;
     }
-    .glob-pannel-table {
-        /*text-align: center;*/
-        width: 100%;
-    }
+
+.glob-pannel-table {
+    /*text-align: center;*/
+    width: 100%;
+}
+
     .glob-pannel-table td:nth-child(1) {
         width: 20%;
     }
-    
+
     .glob-pannel-table td:nth-child(2) {
         width: 75%;
     }
-    
+
     .glob-pannel-table td:nth-child(3) {
         width: 5%;
     }
+
     .glob-pannel-table thead {
         border-bottom: thin solid #d6d7d7;
         font-weight: bolder;
     }
-        .glob-pannel-table td{
-            padding: 5px;
+
+    .glob-pannel-table td {
+        padding: 5px;
+    }
+
+        .glob-pannel-table td i {
+            cursor: pointer;
         }
-         .glob-pannel-table td i {
-             cursor: pointer;
-         }
-/********************************svsdvs***/
+/********************************TABLE***/
+.glob-table {
+    border: thin solid #d8dad9;
+    text-align:center;
+}
+    .glob-table .glob-table-fa-info i{
+        color:#00d0ff;
+        cursor:pointer;
+    }
+    .glob-table .glob-table-add-visit{
+        padding:3px;
+        color:#36861a;
+    }
+    .glob-table .glob-table-delete{
+        padding:3px;
+        color:#a42121;
+    }
+    .glob-table tr td {
+        padding:10px;
+    }
+
+    .glob-table thead {
+        border: thin solid #d8dad9;
+        background:#373737;
+        color:#f2f2f2;
+    }
+
+    .glob-table tbody {
+        border: thin solid #d8dad9;
+    }
+
+    .glob-table thead tr td {
+        border: thin solid #d8dad9;
+    }
+
+    .glob-table tbody tr:nth-child(2n+1) {
+        background:#f0f3f3;
+    }
+    
+        .glob-table tbody tr td {
+            border: thin solid #d8dad9;
+        }
+
+
+
+/********************************BTN***/
+.glob-btn-primary{
+    background:#ffb400;
+    border-radius:0px !important;
+}
+
+/********************************OVERRIDE***/
 
 input.form-control {
     border-radius: 0px !important;
@@ -145,5 +202,3 @@ input.form-control {
 .date {
     direction: ltr;
 }
-
-
