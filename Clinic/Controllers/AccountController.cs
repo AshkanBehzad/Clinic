@@ -40,10 +40,12 @@ namespace Clinic.Controllers
         {
             if (user != null)
             {
+                var db = new Models.ClinicEntities();
+                var us = db.User.FirstOrDefault(u => u.Username == user.Username && u.Password == user.Password);
                 if (IsValid(user.Username, user.Password))
                 {
                     FormsAuthentication.SetAuthCookie(user.Username, false);
-                    Session["uid"] = user.Id;
+                    Session["uid"] = us.Id;
                     ViewBag.Name = user.Name;
                     return RedirectToAction("Dashboard", "Home",user);
                 }

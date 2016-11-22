@@ -1,0 +1,127 @@
+﻿
+@{
+    ViewBag.Title = "لیست بیماران";
+    Layout = "~/Views/Shared/_DashLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel-body" style="padding-right:0px !important">
+            <div class="panel-group" id="accordion">
+                <div class="panel panel-default" style="border:none !important">
+                    <div class="panel-heading" style="background:#fff !important;border:none !important;padding-right:0px !important">
+                        <h2 class="page-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="" style="color:#073d5c !important;text-decoration:none;">
+                                جست‌وجو بیمار
+                            </a>
+                        </h2>
+                    </div>
+                    <div id="collapseOne" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label>نام بیمار</label>
+                                    <input class="form-control">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label> شماره پرونده  </label>
+                                    <input class="form-control date">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label>نام دکتر</label>
+                                    <select class="form-control phone"></select>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label>.....   </label>
+                                    <input class="form-control home-phone">
+                                </div>
+                            </div>
+                            <button class="btn btn-block glob-btn-primary">جست و جو </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header" style="margin-top:0px !important;">لیست بیماران</h1>
+    </div>
+</div>
+
+<div class="row" id="main">
+    <div class="col-lg-12">
+        <table class="glob-table col-lg-12">
+            <thead>
+                <tr>
+                    <td></td>
+                    <td>شماره پرونده</td>
+                    <td>نام</td>
+                    <td>تاریخ آخرین ویزیت</td>
+                    <td>نام دکتر</td>
+                    <td>بدهکار</td>
+                    <td></td>
+
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td class="glob-table-fa-info"><i class="fa fa-info-circle" data-toggle="tooltip" data-placement="bottom" title="مشاهده پرونده"></i></td>
+                    <td>645456</td>
+                    <td>اشکان طراوتی</td>
+                    <td>95-9-20 19:24</td>
+                    <td>رستگار</td>
+                    <td>0</td>
+                    <td class="">
+                        <a href="" class="glob-table-add-visit" data-toggle="tooltip" data-placement="bottom" title="افزودن ویزیت"> <i class="fa fa-plus"></i></a>
+                        <a href="" class="glob-table-delete" data-toggle="tooltip" data-placement="bottom" title="حذف بیمار"> <i class="fa fa-minus"></i></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="glob-table-fa-info"><i class="fa fa-info-circle" data-toggle="tooltip" data-placement="bottom" title="مشاهده پرونده"></i></td>
+                    <td>645456</td>
+                    <td>اشکان طراوتی</td>
+                    <td>95-9-20 19:24</td>
+                    <td>نارستگار</td>
+                    <td>0</td>
+                    <td class="">
+                        <a href="" class="glob-table-add-visit" data-toggle="tooltip" data-placement="bottom" title="افزودن ویزیت"> <i class="fa fa-plus"></i></a>
+                        <a href="" class="glob-table-delete" data-toggle="tooltip" data-placement="bottom" title="حذف بیمار"> <i class="fa fa-minus"></i></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="glob-table-fa-info"><i class="fa fa-info-circle" data-toggle="tooltip" data-placement="bottom" title="مشاهده پرونده"></i></td>
+                    <td>645456</td>
+                    <td>اشکان طراوتی</td>
+                    <td>95-9-20 19:24</td>
+                    <td>رستگار</td>
+                    <td>0</td>
+                    <td class="">
+                        <a href="" class="glob-table-add-visit" data-toggle="tooltip" data-placement="bottom" title="افزودن ویزیت"> <i class="fa fa-plus"></i></a>
+                        <a href="" class="glob-table-delete" data-toggle="tooltip" data-placement="bottom" title="حذف بیمار"> <i class="fa fa-minus"></i></a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <script>
+            $(function () {
+                $('[data-toggle="tooltip"]').tooltip()
+            })
+
+            $("#main").click(function () {
+                $("#collapseOne").removeClass("collapse");
+                $("#collapseOne").addClass("in");
+                $("#collapseOne").addClass("collapse");
+            });
+        </script>
+    </div>
+</div>

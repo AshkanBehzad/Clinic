@@ -221,7 +221,6 @@
     <Content Include="Views\Home\Dashboard.cshtml" />
     <Content Include="Views\Shared\_DashLayout.cshtml" />
     <Content Include="Views\Paitient\CreateNewPaitient.cshtml" />
-    <Content Include="Views\Paitient\View.cshtml" />
     <Content Include="Views\Shared\AdminMetisMenu.cshtml" />
     <EntityDeploy Include="Models\ClinicModel.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
@@ -230,6 +229,7 @@
     <Content Include="Models\ClinicModel.edmx.diagram">
       <DependentUpon>ClinicModel.edmx</DependentUpon>
     </Content>
+    <Content Include="Views\Paitient\ListOfPaitients.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
